@@ -8,7 +8,7 @@ Tech Recruiter | Focus on LLM / Agent / Embodied AI / AI Infra / Post-training
 - Search levels: P6-P10 / technical leaders / startup CTOs
 - Covered cities: Shanghai / Beijing / Shenzhen / remote
 
-📌  What I will share here
+📌  What I will share
 
 ✅ Industry map information (anonymized version)
 
@@ -28,4 +28,5 @@ Tech Recruiter | Focus on LLM / Agent / Embodied AI / AI Infra / Post-training
 - All content is only for industry information exchange； all talent maps and organizational information are anonymized， and candidate privacy， company confidential salary and undisclosed HC will not be disclosed.
 
 - Do not blindly push positions， prioritize matching requirements.
+
 
